@@ -28,6 +28,7 @@ return
 :c1:ddg::{raw}https://www.DuckDuckGo.com/
 :c1:klcpm::{raw}https://codecguide.com/download_k-lite_codec_pack_mega.htm
 :c1:mwb::{raw}https://www.malwarebytes.com/
+:c1:ghostScript::{raw}https://ghostscript.com/releases/index.html
 
 :c*:ATOZ::{RAW}abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,-_()!@#$%^&*´[]{}<> /\|;:’”~¦•·¸¢©°÷½¼¾>¡¿«<¯ µ¬¶±”®»§¨×™ƒ…‰¤¥¹²³
 :c1*:atoz::abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
